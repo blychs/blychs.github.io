@@ -1,4 +1,4 @@
-# Pablo Lichtig's website
+# Welcome
 
 Welcome to my page! I'll try to keep it updated with my work, CV and recent scientific work.
 
