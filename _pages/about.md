@@ -28,6 +28,6 @@ latest_posts:
 ---
 
 I'm Pablo Lichtig, an atmospheric chemist working at the Argentinean National Commission for Atomic Energy (CNEA).
-[Click here to check my CV!](https://blychs.github.io) My research focus, currently, is on the origins and characteristics of classical air pollutants in South America, and on tool development for model evaluation.
+[Click here to check my CV!](https://blychs.github.io/cv_lichtig_english.pdf) My research focus, currently, is on the origins and characteristics of classical air pollutants in South America, and on tool development for model evaluation.
 
 I have experience in lab work and modeling, and also in utilizing measurements (*in situ* and remote) to evaluate model performance.
